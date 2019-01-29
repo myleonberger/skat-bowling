@@ -1,0 +1,81 @@
+{"points":[[0,8],[3,3],[1,0],[7,0],[4,3],[5,2]],"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg"}
+Frames	6
+Score	[0,8]	[3,3]	[1,0]	[7,0]	[4,3]	[5,2]	
+result	8	6	1	7	7	7	
+Spare	0	0	0	0	0	0	
+Strike	0	0	0	0	0	0	
+total	8	14	15	22	29	36	
+{"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg","totals":[8,14,15,22,29,36]}
+
+{"points":[[0,8],[3,3],[1,0],[7,0],[0,10],[7,3],[5,2],[10,0],[3,6]],"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg"}
+Frames	9
+Score	[0,8]	[3,3]	[1,0]	[7,0]	[0,10]	[7,3]	[5,2]	[10,0]	[3,6]	
+result	8	6	1	7	17	15	7	19	9	
+Spare	0	0	0	0	1	1	0	0	0	
+Strike	0	0	0	0	0	0	0	1	0	
+total	8	14	15	22	39	54	61	80	89	
+{"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg","totals":[8,14,15,22,39,54,61,80,89]}
+
+{"points":[[0,8],[3,3],[1,0],[7,0],[4,3],[5,2],[4,5],[2,4],[6,0],[10,0,5]],"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg"}
+Frames	10
+Score	[0,8]	[3,3]	[1,0]	[7,0]	[4,3]	[5,2]	[4,5]	[2,4]	[6,0]	[10,0,5]	
+result	8	6	1	7	7	7	9	6	6	15	
+Spare	0	0	0	0	0	0	0	0	0	0	
+Strike	0	0	0	0	0	0	0	0	0	1	
+total	8	14	15	22	29	36	45	51	57	72	
+{"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg","totals":[8,14,15,22,29,36,45,51,57,72]}
+
+{"points":[[0,8],[3,3],[1,0],[7,0],[4,3],[5,2],[4,5],[2,4],[6,0],[1,6,5]],"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg"}
+Frames	10
+Score	[0,8]	[3,3]	[1,0]	[7,0]	[4,3]	[5,2]	[4,5]	[2,4]	[6,0]	[1,6,5]	
+result	8	6	1	7	7	7	9	6	6	7	
+Spare	0	0	0	0	0	0	0	0	0	0	
+Strike	0	0	0	0	0	0	0	0	0	0	
+total	8	14	15	22	29	36	45	51	57	64	
+{"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg","totals":[8,14,15,22,29,36,45,51,57,64]}
+
+{"points":[[0,8],[3,3],[1,0],[7,0],[4,3],[5,2],[4,5],[2,4],[6,0],[4,6,5]],"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg"}
+Frames	10
+Score	[0,8]	[3,3]	[1,0]	[7,0]	[4,3]	[5,2]	[4,5]	[2,4]	[6,0]	[4,6,5]	
+result	8	6	1	7	7	7	9	6	6	15	
+Spare	0	0	0	0	0	0	0	0	0	1	
+Strike	0	0	0	0	0	0	0	0	0	0	
+total	8	14	15	22	29	36	45	51	57	72	
+{"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg","totals":[8,14,15,22,29,36,45,51,57,72]}
+
+{"points":[[0,8],[3,3],[1,0],[7,0],[4,3],[5,2],[4,5],[2,4],[6,0],[10,3,5]],"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg"}
+Frames	10
+Score	[0,8]	[3,3]	[1,0]	[7,0]	[4,3]	[5,2]	[4,5]	[2,4]	[6,0]	[10,3,5]	
+result	8	6	1	7	7	7	9	6	6	18	
+Spare	0	0	0	0	0	0	0	0	0	0	
+Strike	0	0	0	0	0	0	0	0	0	1	
+total	8	14	15	22	29	36	45	51	57	75	
+{"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg","totals":[8,14,15,22,29,36,45,51,57,75]}
+
+{"points":[[0,8],[3,7],[10,0],[7,1],[4,6],[5,2],[4,5],[2,4]],"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg"}
+Frames	8
+Score	[0,8]	[3,7]	[10,0]	[7,1]	[4,6]	[5,2]	[4,5]	[2,4]	
+result	8	20	18	8	15	7	9	6	
+Spare	0	1	0	0	1	0	0	0	
+Strike	0	0	1	0	0	0	0	0	
+total	8	28	46	54	69	76	85	91	
+{"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg","totals":[8,28,46,54,69,76,85,91]}
+
+{"points":[[0,8],[10,0],[10,0],[10,0],[4,6],[5,5],[4,5],[2,4],[6,0],[10,0,5]],"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg"}
+Frames	10
+Score	[0,8]	[10,0]	[10,0]	[10,0]	[4,6]	[5,5]	[4,5]	[2,4]	[6,0]	[10,0,5]	
+result	8	20	20	20	15	14	9	6	6	15	
+Spare	0	0	0	0	1	1	0	0	0	0	
+Strike	0	1	1	1	0	0	0	0	0	1	
+total	8	28	48	68	83	97	106	112	118	133	
+{"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg","totals":[8,28,48,68,83,97,106,112,118,133]}
+
+{"points":[[3,7],[10,0],[8,2],[8,1],[10,0],[3,4],[7,0],[5,5],[3,2],[2,5]],"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg"}
+Frames	10
+Score	[3,7]	[10,0]	[8,2]	[8,1]	[10,0]	[3,4]	[7,0]	[5,5]	[3,2]	[2,5]	
+result	20	20	18	9	17	7	7	13	5	7	
+Spare	1	0	1	0	0	0	0	1	0	0	
+Strike	0	1	0	0	1	0	0	0	0	0	
+total	20	40	58	67	84	91	98	111	116	123	
+{"token":"xiew7kaHYhW6Z9kfgwGro9l98Duh6YBg","totals":[20,40,58,67,84,91,98,111,116,123]}
+
